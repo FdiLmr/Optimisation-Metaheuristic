@@ -11,7 +11,7 @@ L'initialisation du projet se réalise à travers les étapes suivantes:
 
 1. Clonage du Projet   
 La première étape est de cloner le sujet dans le répertoire de votre choix. Pour ce faire vous pouvez utiliser la commande suivante depuis votre terminal GIT:    
-` https://github.com/dorian-roux/ing3-optimisation-metaheuristiques.git `
+` https://github.com/FdiLmr/ing3-optimisation-metaheuristiques.git `
 
 
 2. Pour utiliser un environnement conda ayant les libraries requises pour le bon fonctionnement du projet exécutez la commande suivante:  
